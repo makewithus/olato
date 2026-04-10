@@ -1439,6 +1439,10 @@ blockquote {
   display: flex;
 }
 
+.logo{
+  max-width: 100%;
+}
+
 .navbar2_link {
   grid-column-gap: 3.125rem;
   grid-row-gap: 3.125rem;
